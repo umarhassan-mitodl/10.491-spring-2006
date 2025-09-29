@@ -4,6 +4,8 @@ description: Design project topic and memorandum.
 file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/c1bf2537a78c687dcd414b9eccefc586_group_12.pdf
 file_size: 11356
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
