@@ -3,8 +3,6 @@ content_type: page
 description: The syllabus section contains course description, prerequisites, homework,
   final report, and presentation, policy for academic conduct, grading policy, and
   calendar.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

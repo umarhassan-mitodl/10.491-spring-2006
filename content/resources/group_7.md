@@ -4,8 +4,6 @@ description: Design project topic and memo.
 file: /courses/10-491-integrated-chemical-engineering-ii-spring-2006/82588b85271d0c53e9d7dd3f2790e9ea_group_7.pdf
 file_size: 11496
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

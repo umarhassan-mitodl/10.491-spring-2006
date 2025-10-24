@@ -2,8 +2,6 @@
 content_type: page
 description: The assignments section contains problem sets for the course, and some
   caveats.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

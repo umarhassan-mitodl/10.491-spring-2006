@@ -27,7 +27,6 @@
     "website": "10-491-integrated-chemical-engineering-ii-spring-2006"
   },
   "course_title": "Integrated Chemical Engineering II",
-  "hide_download": true,
   "course_description": "This course introduces students to methods and background needed for the conceptual design of continuously operating chemical plants. Particular attention is paid to the use of process modeling tools such as Aspen that are used in industry and to problems of current interest. Each student team is assigned to evaluate and design a different technology and prepare a final design report.\n\nFor spring 2006, the theme of the course is to design technologies for lowering the emissions of climatically active gases from processes that use coal as the primary fuel.\n",
   "department_numbers": [
     "10"
@@ -38,7 +37,6 @@
     "content": "0252a53f-3488-d6a3-e7ee-31619f830def",
     "website": "10-491-integrated-chemical-engineering-ii-spring-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Projects with Examples",
     "Problem Sets"
